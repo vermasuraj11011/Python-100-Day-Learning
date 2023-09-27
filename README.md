@@ -24,6 +24,17 @@ Check data type of the variable
 8 // 3 => 2
 2 ** 2 => 4
 2 ** 3 => 8
+5 % 2 => 1
 ```
 Python follows PEMDAS  
 ()  >  ** >  *,/  >  +,-
+
+
+
+
+## Cool links
+
+### Ascii Art
+```text
+https://ascii.co.uk/art
+```
