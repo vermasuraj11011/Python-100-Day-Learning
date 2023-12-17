@@ -38,5 +38,3 @@ Python follows PEMDAS
 ```text
 https://ascii.co.uk/art
 ```
-
-[//]: # (temp)
