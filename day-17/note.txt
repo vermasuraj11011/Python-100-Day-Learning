@@ -1,0 +1,5 @@
+
+# use pass key word to avoid error in the empty class of function.
+
+class Name:
+    pass
