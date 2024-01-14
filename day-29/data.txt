@@ -1,0 +1,4 @@
+amazon | suraj@gmail.com | abcde
+gmail | suraj@gmail.com | gmail
+abc | suraj@gmail.com | abc
+ | suraj@gmail.com | 
